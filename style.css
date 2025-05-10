@@ -1,0 +1,107 @@
+body {
+    font-family: sans-serif;
+    padding: 5px;
+    font-size: 20px;
+}
+
+header {
+    border: 5px solid Blue;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+header b {
+    color: DarkBlue;
+}
+
+header a {
+    color: white;
+    background: MediumBlue;
+    padding: 5px;
+    padding-left: 8px;
+    padding-right: 8px;
+    margin: 10px;
+    border-radius: 8px;
+    text-decoration: none;
+}
+
+h1 {
+    text-align: center;
+    color: BlueViolet;
+}
+
+footer {
+    background: rgb(255, 180, 226);
+    padding: 5px;
+}
+
+footer p {
+    background: white;
+    margin: 5px;
+    padding-left: 5px;
+}
+
+footer b {
+    padding-left: 20px;
+}
+
+nav {
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    color: white;
+    background: mediumblue;
+    padding: 5px;
+    text-decoration: none;
+    margin: 20px;
+    border-radius: 10px;
+    width: 130px;
+    text-align: center;
+    border: 2px solid mediumblue;
+}
+
+.blue {
+    color: mediumblue;
+    background: white;
+    padding: 5px;
+    text-decoration: none;
+    margin: 20px;
+    border-radius: 10px;
+    width: 130px;
+    text-align: center;
+    border: 2px solid mediumblue;
+}
+
+select {
+    border: 2px solid mediumblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+option {
+    background: mediumblue;
+    color: white;
+}
+
+.store {
+    border: 3px solid mediumblue;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+h2 {
+    color: blue;
+}
+
+.store_img {
+   border-radius: 10px;
+   border: 1px solid lightblue; 
+}
+
+a {
+    padding: 10px;
+    border: 3px solid darkblue;
+    text-decoration: none;
+}
